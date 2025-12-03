@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Arbaz Ahmad - Full Stack Web Developer" />
+  <img src="Github-Banner.png" alt="Arbaz Ahmad - Full Stack Web Developer" />
 </p>
 
 <p align="center">
