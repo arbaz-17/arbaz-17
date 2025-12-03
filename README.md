@@ -32,8 +32,17 @@
 <h3 align="center">⚒ Things I Code With</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,docker,vercel" />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,figma,postman,vscode,git,github,cursor,chatgpt&perline=11"
+  />
+</p>
+
 
 ---
 
