@@ -33,13 +33,13 @@
 
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,supabase,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,figma,postman,vscode,git,github,cursor,chatgpt&perline=11"
+    src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,figma,ps,ai,postman,vscode,git,github,cursor,chatgpt&perline=11"
   />
 </p>
 
