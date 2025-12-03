@@ -28,9 +28,7 @@
 </p>
 
 
-<p align="center" style="margin: 8px 0;">
-  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
-</p>
+
 
 <h3 align="center">⚒ Things I Code With</h3>
 
@@ -39,9 +37,7 @@
 </p>
 
 
-<p align="center" style="margin: 8px 0;">
-  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
-</p>
+
 
 ### ⭐ Featured Projects
 
@@ -52,9 +48,6 @@
 > Check pinned repos below 👇
 
 
-<p align="center" style="margin: 8px 0;">
-  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
-</p>
 
 ### 📊 My Stats
 
@@ -70,10 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaz-17&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
-
-<p align="center" style="margin: 8px 0;">
-  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
-</p>
 
 ### 🌐 Connect with me
 
