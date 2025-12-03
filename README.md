@@ -9,7 +9,7 @@
   />
 </p>
 
-<p align="center">
+<p align="center" style="margin: 8px 0;">
   <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
 </p>
 
