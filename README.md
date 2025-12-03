@@ -71,15 +71,24 @@
 <h3 align="center">📂 Github Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbaz-17&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arbaz-17&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arbaz-17&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=arbaz-17&theme=github-dark&hide_border=true"
+    alt="GitHub streak stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaz-17&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arbaz-17&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
