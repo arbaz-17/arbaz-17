@@ -9,6 +9,9 @@
   />
 </p>
 
+<p align="center">
+  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
+</p>
 
 <h3 align="center">🧩 A Bit About Me</h3>
 
