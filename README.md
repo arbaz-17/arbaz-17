@@ -2,6 +2,9 @@
 <p align="center">
   <img src="banner.png" alt="Arbaz Ahmad - Full Stack Web Developer" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SaaS+%26+MVP+Builder;Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+</p>
 
 
 <!--
