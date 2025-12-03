@@ -51,27 +51,20 @@
 <h3 align="center">🤝 How I Can Help You</h3>
 
 <p align="center">
-  🚀 Build custom Next.js web apps that are fast, clean and ready to deploy
+  🚀 Build custom Next JS web apps that are fast, clean and ready to deploy.
 </p>
 <p align="center">
-  ⚡ Turn your idea into a polished SaaS MVP with auth, dashboards and real users in mind
+  ⚡ Turn your idea into a polished SaaS MVP with auth, dashboards and real users in mind.
 </p>
 <p align="center">
-  🌐 Design and develop modern landing pages that clearly explain what you do and convert visitors
+  🌐 Design and develop modern landing pages that clearly explain what you do and convert visitors.
 </p>
 <p align="center">
-  🐛 Fix bugs, refactor messy code and debug issues that slow your product or your team down
+  💳 Set up payments and subscriptions so you can start charging users without worrying about the tech.
 </p>
 <p align="center">
-  🧠 Integrate AI features like chatbots, assistants and smart tools directly into your existing app
+  🐛 Fix bugs, refactor messy code and debug issues that slow your product or your team down.
 </p>
-<p align="center">
-  💳 Set up payments and subscriptions so you can start charging users without worrying about the tech
-</p>
-<p align="center">
-  💬 Help you think through your product, choose the right stack and ship something you’re proud of
-</p>
-
 
 ---
 
