@@ -95,7 +95,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@ArbazAhmadYT" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" alt="YouTube" />
   </a>
   <a href="https://github.com/arbaz-17" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
