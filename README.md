@@ -89,7 +89,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-arbaz.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ansible" alt="Portfolio" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/thearbazahmad/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
