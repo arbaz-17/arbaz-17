@@ -79,20 +79,23 @@
 
 ---
 
-### 🌐 Connect with me
+<h3 align="center">📬 Let’s Connect</h3>
 
 <p align="center">
-  <a href="https://portfolio-arbaz.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arbaz-ahmad-93ab99309/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-arbaz.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/thearbazahmad/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@ArbazAhmadYT" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
   <a href="https://github.com/arbaz-17" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
