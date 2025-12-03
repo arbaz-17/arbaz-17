@@ -9,10 +9,6 @@
   />
 </p>
 
-<p align="center" style="margin: 8px 0;">
-  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
-</p>
-
 <h3 align="center">🧩 A Bit About Me</h3>
 
 <p align="center">
@@ -31,13 +27,21 @@
   🧑‍💻 Open to remote freelance projects, collaborations and consulting.
 </p>
 
+
+<p align="center" style="margin: 8px 0;">
+  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
+</p>
+
 <h3 align="center">⚒ Things I Code With</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,docker,vercel" />
 </p>
 
----
+
+<p align="center" style="margin: 8px 0;">
+  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
+</p>
 
 ### ⭐ Featured Projects
 
@@ -47,7 +51,10 @@
 
 > Check pinned repos below 👇
 
----
+
+<p align="center" style="margin: 8px 0;">
+  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
+</p>
 
 ### 📊 My Stats
 
@@ -63,7 +70,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaz-17&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
----
+
+<p align="center" style="margin: 8px 0;">
+  <img src="Neon-Line.svg" alt="Neon divider" width="70%" />
+</p>
 
 ### 🌐 Connect with me
 
