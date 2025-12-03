@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Arbaz Ahmad - Full Stack Web Developer" />
+</p>
+
 
 <!--
 **arbaz-17/arbaz-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
