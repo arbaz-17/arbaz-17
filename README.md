@@ -10,16 +10,25 @@
 </p>
 
 
-### 👨‍💻 About Me
+<h3 align="center">🧩 A Bit About Me</h3>
 
-- I build **modern web apps, dashboards & SaaS products** with Next.js & Node.js  
-- I love turning ideas into **clean, production-ready experiences**  
-- Maker of **TrackDairy** (dairy farm SaaS) and **NexBolt** (Next.js SaaS boilerplate)  
-- Open to **remote freelance projects, collaborations and consulting**
+<p align="center">
+  ✨ I’m a full-stack developer who turns complex problems into clean, scalable products that feel fast, intuitive, and genuinely useful.
+</p>
 
----
+<p align="center">
+  🧠 Right now I’m building an AI-powered doctor assistant to make clinical work smoother, smarter, and more efficient.
+</p>
 
-### 🛠 Tech Stack – Things I code with
+<p align="center">
+  📚 I’m currently leveling up with NestJS to craft more robust, enterprise-grade backends.
+</p>
+
+<p align="center">
+  🧑‍💻 Open to remote freelance projects, collaborations and consulting.
+</p>
+
+<h3 align="center">⚒ Things I Code With</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,docker,vercel" />
