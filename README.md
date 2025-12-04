@@ -82,7 +82,7 @@
 <h3 align="center">📬 Let’s Connect</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:arbazdev17@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/arbaz-ahmad-93ab99309/" target="_blank">
