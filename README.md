@@ -72,7 +72,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=arbaz-17&theme=github-dark&hide_border=true"
+    src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arbaz-17&theme=github-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>"
     alt="GitHub streak stats"
   />
 </p>
