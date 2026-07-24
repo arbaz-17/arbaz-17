@@ -71,7 +71,9 @@
 <h3 align="center">📂 Github Stats</h3>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arbaz-17&theme=github-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
