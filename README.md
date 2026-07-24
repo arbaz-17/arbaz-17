@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  📚 I’m currently leveling up with NestJS to craft more robust, enterprise-grade backends.
+  📚 I’m currently learning FastAPI to build and integrate AI-powered applications more effectively.
 </p>
 
 <p align="center">
