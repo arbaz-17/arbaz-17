@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  🧠 Right now I’m building an AI-powered doctor assistant to make clinical work smoother, smarter, and more efficient.
+  🧠 Right now I’m building an AI-powered clinic assistant to make clinical work smoother, smarter, and more efficient.
 </p>
 
 <p align="center">
-  📚 I’m currently learning FastAPI to build and integrate AI-powered applications more effectively.
+  📚 I’m currently learning FastAPI and RAG to build and integrate AI-powered applications more effectively.
 </p>
 
 <p align="center">
