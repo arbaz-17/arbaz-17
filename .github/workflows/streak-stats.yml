@@ -24,7 +24,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=arbaz-17&theme=github-dark&hide_border=true&short_numbers=true&disable_animations=true
+          options: user=arbaz-17&theme=github-dark&hide_border=true&short_numbers=false&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
