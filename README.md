@@ -33,14 +33,14 @@
 
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,supabase,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
+    src="https://go-skill-icons.netlify.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,supabase,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
   />
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,figma,ps,ai,postman,vscode,git,github,cursor,chatgpt&perline=13"
+    src="https://go-skill-icons.netlify.app/api/icons?i=python,java,cpp,cs,figma,ps,ai,postman,vscode,git,github,cursor,chatgpt&perline=13"
   />
   </a>
 </p>
