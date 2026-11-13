@@ -29,21 +29,34 @@
 
 ---
 
+
 <h3 align="center">⚒ Things I Code With</h3>
 
 <p align="center">
   <img
-    src="https://go-skill-icons.netlify.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,shadcn,framer,nodejs,expressjs,postgresql,supabase,mongodb,mysql,redis,sentry,docker,nginx,vercel&perline=10"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres&amp;perline=10"
+    alt="Frontend and Backend Technologies"
   />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
   <img
-    src="https://go-skill-icons.netlify.app/api/icons?i=python,java,cpp,cs,figma,ps,ai,postman,vscode,git,github,cursor,chatgpt&perline=13"
+    src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,redis,sentry,docker,nginx,vercel&amp;perline=8"
+    alt="Database, DevOps and Cloud"
   />
-  </a>
+  <img src="https://cdn.simpleicons.org/shadcnui/808080" width="44" height="44" alt="shadcn/ui" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer" />
 </p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,java,cpp,cs,figma,ps,ai,postman,vscode,git,github&amp;perline=13"
+    alt="Languages and Developer Tools"
+  />
+  <img src="https://cdn.simpleicons.org/cursor/808080" width="44" height="44" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/openai/10A37F" width="44" height="44" alt="ChatGPT" />
+</p>
+
 
 
 ---
